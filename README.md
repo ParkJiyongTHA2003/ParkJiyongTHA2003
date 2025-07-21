@@ -4,6 +4,8 @@ An ambitious, flexible, and adaptable, Computer Science and Multimedia student w
 ## 🏆 Achivement:
 🥇 1st Place : AMSA x GDGoC Chula,KMITL,KMUTT Presents : New Era of AI by AMSA Healthcare Innovation Challenge From 255 teams nationwide, our solution stood out for its real-world impact.
 
+## 💼 Experience:
+-June 2025 - August 2025 : Internship @SkillLane Technology Public Company Limited 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pjysdesu) 
