@@ -2,6 +2,7 @@
 An ambitious, flexible, and adaptable, Computer Science and Multimedia student with a strong passion for web development,Proficient in full-stack and UX/UI design. Eager to learn and adapt to new technology.Flexible in my work style and committed to refining my skills in order to design efficient, user-friendly, and impactful websites that suit consumers' needs.
 
 ## 🏆 Achivement:
+- Top 50 : JUMP THAILAND Hackathon 2025
 🥇 1st Place : AMSA x GDGoC Chula,KMITL,KMUTT Presents : New Era of AI by AMSA Healthcare Innovation Challenge From 255 teams nationwide, our solution stood out for its real-world impact.
 
 ## 💼 Experience:
